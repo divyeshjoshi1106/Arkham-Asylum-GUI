@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "Joker's\ Great\ Escape"\ application.\ \r\n\ "Joker's\ Great\ Escape"\ is\ a\ very\ simple\ and\ interesting,\ text\ based\ adventure\ game.\ \r\n\ \r\n\ This\ class\ is\ responsible\ for\ checking\ whether\ the\ first\ word\ in\ the\ user\ input\ was\ a\ command\r\n\ word\ or\ an\ unknown\ word.\ Once\ done,\ the\ method\ returns\ either\ the\ corresponding\ word\ to\ that\ \r\n\ command\ or\ returns\ a\ String\ that\ shows\ that\ this\ word\ is\ an\ unknown\ word\r\n\r\n\ This\ class\ holds\ an\ enumeration\ of\ all\ command\ words\ known\ to\ the\ game.\r\n\ It\ is\ used\ to\ recognise\ commands\ as\ they\ are\ typed\ in.\r\n\r\n\ @author\ \ Divyesh\ Joshi\ and\ Hussam\ Kayed\r\n\ @version\ 27/04/2020\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructor\ -\ initialise\ the\ command\ words.\r\n
+comment2.params=aString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Check\ whether\ a\ given\ String\ is\ a\ valid\ command\ word.\ \r\n\ @return\ true\ if\ it\ is,\ false\ if\ it\ isn't.\r\n
+comment3.params=
+comment3.target=java.lang.String[]\ showAll()
+comment3.text=\r\n\ Print\ all\ valid\ commands\ to\ System.out.\r\n
+numComments=4

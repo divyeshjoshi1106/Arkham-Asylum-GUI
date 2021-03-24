@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Win
+comment0.text=\r\n\ This\ is\ the\ class\ of\ the\ "Joker's\ Great\ Escape"\ game.\ This\ is\ a\ very\ interesting\ game\r\n\ which\ envolves\ the\ escape\ of\ the\ joker\ from\ an\ asylum\ in\ gotham\ city\ called\ "The\ Arkham\ Asylum".\r\n\ THe\ win\ condition\ for\ the\ game\ is\ stored\ here.\r\n\ @author\ (Divyesh\ Joshi\ and\ Hussam\ Kayed)\r\n\ @version\ (04.05.2020)\r\n
+comment1.params=
+comment1.target=Win()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Win\r\n
+comment2.params=items
+comment2.target=boolean\ compareArrayList(java.util.ArrayList)
+comment2.text=\r\n\ Method\ compareArrayList\r\n\r\n\ @param\ items\ A\ parameter\ of\ ArrayList<String>\ type\r\n\ @return\ returns\ true\ if\ two\ ArrayList\ matches\ otherwise\ false\r\n
+numComments=3

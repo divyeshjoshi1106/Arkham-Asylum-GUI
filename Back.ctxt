@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Back
+comment0.text=\r\n\ This\ is\ the\ Back\ class\ of\ the\ "Joker's\ Great\ Escape"\ game.\ This\ is\ a\ very\ interesting\ game\r\n\ which\ envolves\ the\ escape\ of\ the\ joker\ from\ an\ asylum\ in\ gotham\ city\ called\ "The\ Arkham\ Asylum"\r\n\ This\ class\ is\ used\ to\ store\ data\ of\ the\ previos\ room\ in\ which\ player\ was\ to\ be\ used\ with\ Back\ command\r\n\ @author\ (Divyesh\ Joshi\ and\ Hussam\ Kayed)\r\n\ @version\ (04.05.2020)\r\n
+comment1.params=room\ itemsList
+comment1.target=Back(Room,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Back\r\n
+comment2.params=
+comment2.target=Room\ getRoom()
+comment2.text=\r\n\ Method\ getRoom\r\n\r\n\ @return\ returns\ reference\ to\ the\ room\ stored\ in\ state\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getItemsList()
+comment3.text=\r\n\ Method\ getItemsList\r\n\r\n\ @return\ returns\ the\ arraylist\ of\ the\ items\r\n
+comment4.params=
+comment4.target=int\ getPrevSize()
+comment4.text=\r\n\ Method\ getPrevSize\r\n\r\n\ @return\ returns\ the\ size\ of\ the\ itemsList\r\n
+numComments=5

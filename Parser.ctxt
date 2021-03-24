@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "Joker's\ Great\ Escape"\ application.\ \r\n\ "Joker's\ Great\ Escape"\ is\ a\ very\ simple\ and\ interesting,\ text\ based\ adventure\ game.\r\n\ \r\n\ Once\ an\ object\ from\ the\ Game\ class\ is\ instansiated,\ the\ parser\ has\ the\ responsibility\ to\ \r\n\ read\ the\ words\ entered\ by\ the\ user\ and\ discover\ whether\ they\ are\ valid\ or\ not\ by\ the\ class\r\n\ CommandWords\r\n\r\n\ This\ parser\ reads\ user\ input\ and\ tries\ to\ interpret\ it\ as\ an\ "Escape"\r\n\ command.\ Every\ time\ it\ is\ called\ it\ reads\ a\ line\ from\ the\ terminal\ and\r\n\ tries\ to\ interpret\ the\ line\ as\ a\ two\ word\ command.\ It\ returns\ the\ command\r\n\ as\ an\ object\ of\ class\ Command.\r\n\r\n\ The\ parser\ has\ a\ set\ of\ known\ command\ words.\ It\ checks\ user\ input\ against\r\n\ the\ known\ commands,\ and\ if\ the\ input\ is\ not\ one\ of\ the\ known\ commands,\ it\r\n\ returns\ a\ command\ object\ that\ is\ marked\ as\ an\ unknown\ command.\r\n\ \r\n\ @author\ \ Divyesh\ Joshi\ and\ Hussam\ Kayed\r\n\ @version\ 27/04/2020\r\n
+comment1.params=s
+comment1.target=Parser(java.lang.String)
+comment1.text=\r\n\ Create\ a\ parser\ to\ read\ from\ the\ terminal\ window.\r\n
+comment2.params=
+comment2.target=Command\ getCommand()
+comment2.text=\r\n\ @return\ The\ next\ command\ from\ the\ user.\r\n
+comment3.params=
+comment3.target=void\ showCommands()
+comment3.text=\r\n\ Print\ out\ a\ list\ of\ valid\ command\ words.\r\n
+numComments=4
